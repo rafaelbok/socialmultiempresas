@@ -92,7 +92,7 @@ export const RenderForm = ({
               />
               <Field
                 as={TextField}
-                label="Telefone 5511912345678"
+                label="Sua Mensagem"
                 type="model"
                 multiline
                 minRows={10}
@@ -106,7 +106,7 @@ export const RenderForm = ({
 
               <Field
                 as={TextField}
-                label="Digite sua Mensagem"
+                label="Telefones 55 11 9999 9999"
                 type="csv"
                 multiline
                 minRows={5}
